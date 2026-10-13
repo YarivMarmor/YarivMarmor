@@ -16,7 +16,9 @@ The following repositories contain research software, documentation, and downloa
 
 **Agreement and reliability of categorical classifications**
 
-Software supporting the methodological research presented in *Agreement Between Classifiers: A Metrological Interpretation*.
+Research software for analyzing agreement between classifiers and exploring its metrological interpretation.
+
+**Related manuscript:** *Agreement Between Classifiers: A Metrological Interpretation* — currently under peer review.
 
 **[GitHub repository](https://github.com/YarivMarmor/Agreement-Between-Classifiers)**
 
@@ -27,6 +29,10 @@ Software supporting the methodological research presented in *Agreement Between 
 A software tool for studying appointment scheduling and service operations, including simulation and scheduling analysis.
 
 **[GitHub repository](https://github.com/YarivMarmor/msn-appointment-scheduler)** · **[Software DOI](https://doi.org/10.5281/zenodo.23326641)**
+
+**Related publication:**
+
+Shnits, B., Bendavid, I., & Marmor, Y. N. (2020). *An appointment scheduling policy for healthcare systems with parallel servers and pre-determined quality of service*. **Omega, 97**, 102095. [DOI](https://doi.org/10.1016/j.omega.2019.08.002).
 
 ### 3. PowerCAT / ORDANOVA
 
@@ -67,4 +73,4 @@ A Python-based research tool for comparing preference chains through cosine simi
 
 **Related publication:**
 
-Vanacore, A., Marmor, Y. N., & Bashkansky, E. (2019). *Some metrological aspects of preferences
+Vanacore, A., Marmor, Y. N., & Bashkansky, E. (2019). *Some metrological aspects of preferences expressed by prioritization of alternatives*. **Measurement, 135**, 520–526. [DOI](https://doi.org/10.1016/j.measurement.2018.11.012).
